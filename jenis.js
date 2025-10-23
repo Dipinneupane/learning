@@ -1,3 +1,7 @@
-console.log("he is dumb");
+var name = "john";
 
-console.log("he is smart");
+console.log(name);
+
+console.log(name + " is dumb");
+
+console.log(name + " is smart");
